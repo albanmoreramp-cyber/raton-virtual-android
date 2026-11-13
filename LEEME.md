@@ -2,7 +2,7 @@
 
 Creado por **Albán Morera Peralta** · albanmoreram.p@gmail.com
 
-Controla el móvil con la mano usando la cámara frontal (versión 1).
+Guía de instalación y uso de la app (versión 4).
 
 ## Gestos
 
