@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Virtual Mouse</string>
+    <string name="accessibility_label">AI Virtual Mouse (ratón con la mano)</string>
+    <string name="accessibility_description">Mueve un cursor con tu mano usando la cámara frontal y toca la pantalla por ti: tocar, mantener pulsado, arrastrar, desplazar, Atrás, Inicio y Recientes. Las imágenes de la cámara se analizan solo en el teléfono y no se guardan ni se envían a ningún sitio. Creado por Albán Morera Peralta (albanmoreram.p@gmail.com).</string>
+</resources>

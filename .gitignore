@@ -1,0 +1,15 @@
+# Privado / generado
+local.properties
+build/
+.gradle/
+.idea/
+*.iml
+*.task
+dist/
+*.spec
+__pycache__/
+camara.json
+gestos.json
+*registro.txt
+*.exe
+*.apk

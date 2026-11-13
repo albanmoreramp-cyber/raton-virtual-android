@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono de la app: flecha blanca de ratón (dentro de la zona segura de 66 dp) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:strokeColor="#FF2E1065"
+        android:strokeWidth="2"
+        android:pathData="M40,28 L40,78 L52,66 L60,84 L68,80.5 L60.2,63 L78,63 Z" />
+</vector>
